@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는 AI학과 안갑수입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 1년동안 모두 다 잘 보내다가 좋은 곳에 취업하였으면 좋겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 학과 분들 모두 다 1년 동안 잘 보내다가 원하는 곳으로 가셨으면 좋겠습니다. 그리고 내년에도 행복하세요~! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
